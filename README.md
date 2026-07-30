@@ -158,6 +158,7 @@ Generación de reporte Markdown (timeline.md)
 Para una descripción más detallada del flujo de trabajo, consulta docs/architecture.md.
 
 🎯 Objetivo del Proyecto
+
 Este repositorio fue desarrollado como proyecto de aprendizaje para practicar:
 
 - Automatización con Python.
